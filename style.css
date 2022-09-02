@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: #37c871;
+    background-color: ##76b5c5;
 
 }
 #bolo
@@ -20,12 +20,12 @@ h1{
   <!---
 define a altura do título principal
 --->
-    color: #00000;
+    color: #eeeee4
         
   <!---
 define a cor do título principal
 --->
-  background-color:  #00000;
+  background-color:  #eeeee4;
  <!---
 define a cor de fundo do título principal
 --->
@@ -37,7 +37,7 @@ define a altura do título principal
  
 }
 h2{
-    Color:   #D02C0F
+    Color:   #154c79
  <!---
 define a cor do segundo título
 --->
