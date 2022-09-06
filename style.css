@@ -4,9 +4,7 @@ body{
 
 }
 #bolo
-<!---
-PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
---->
+
 
 {
     width: 100%;
@@ -17,28 +15,15 @@ quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura d
 
 h1{
   height: 150px;
-  <!---
-define a altura do título principal
---->
-    color: #eeeee4
+   color: #eeeee4
         
-  <!---
-define a cor do título principal
---->
   background-color:  #eeeee4;
- <!---
-define a cor de fundo do título principal
---->
+
   font-size: 80px;
-   <!---
-define a altura do título principal
---->
+
   font-style: italic;
  
 }
 h2{
     Color:   #154c79
- <!---
-define a cor do segundo título
---->
 }
